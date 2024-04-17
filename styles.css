@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+#cabecalho{
+    height: 150px;
+    background-color: aqua;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#menu{
+    height: 500px;
+    width: 300px;
+    background-color: aqua;
+    float: left;
+    margin-left: 37px;
+    margin-top: 10px;
+}
+
+#conteudo{
+    height: 500px;
+    width: 800px;
+    background-color: aqua;
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+#lado{
+    height: 500px;
+    width: 290px;
+    background-color: aqua;
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+
+
+#rodape{
+    height: 150px;
+    width 300px;
+    background-color: aqua;
+    clear: both;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+button {
+    border-radius: 40px; 
+    padding: 20px 50px; 
+    background-color: #06eb6d;
+    color: white; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+}
+
